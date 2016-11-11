@@ -4,7 +4,7 @@
 LIRI is like SIRI (from iOS).  It is a command line node app that takes in parameters and gives you back data.
 
 ## Setup
-#### 0. Clone this repo
+#### 0. Clone the repo
 
 #### 1. Install the following npm packages
 
